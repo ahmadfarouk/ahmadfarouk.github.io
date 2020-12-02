@@ -25,6 +25,7 @@ img {
     margin-left: auto; 
     margin-right: auto;
     display: block;
+    size: 200px 200px;
 } 
 section {
    background-color: red,
